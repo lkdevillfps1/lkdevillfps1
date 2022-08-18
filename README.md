@@ -8,7 +8,7 @@
 
 • 📚 Estudo: Python django / html, css e javascript / Power Bi / SQL      
 
-<div align="colum">
+<div>
   <a href="https://github.com/lkdevillfps1">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lkdevillfps1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkdevillfps1&layout=compact&langs_count=7&theme=midnight-purple"/>
