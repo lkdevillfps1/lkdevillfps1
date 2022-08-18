@@ -1,16 +1,28 @@
-### Hi there 👋
+## Olá, eu sou o Lucas Araujo 
 
-<!--
-**lkdevillfps1/lkdevillfps1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ • 📚 Estudante de Analise Desenvovimento de Sistemas 
 
-Here are some ideas to get you started:
+• 🧑‍💼 Atualmente trabalho fora da área de tec, como bartender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 💡 Em busca do meu primeiro emprego na area de tecnologia.
+
+• 📚 Estudo: Python django / html, css e javascript / Power Bi / SQL      
+
+<div align="colum">
+  <a href="https://github.com/lkdevillfps1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkdevillfps1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkdevillfps1&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+
+<div> 
+  
+  <a href="https://instagram.com/olkaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:lkdevil660@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-araujo-50473b115" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+
+
+![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
