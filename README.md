@@ -6,7 +6,7 @@
 
 • 💡 Em busca do meu primeiro emprego na area de tecnologia.
 
-• 📚 Estudo: Python django / html, css e javascript / Power Bi / SQL      
+• 📚 Estudo: Python / html, css e javascript / Power Bi / SQL      
 
 <div>
   <a href="https://github.com/lkdevillfps1">
