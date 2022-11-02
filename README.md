@@ -8,8 +8,7 @@
 
 • 📚 Estudo: Python / html, css e javascript / Power Bi / SQL      
 
-![Lucasa GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdevillfps1&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkdevillfps1&layout=compact)](https://github.com/lkdevillfps1/github-readme-stats)
+![Lucasa GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdevillfps1&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkdevillfps1&layout=compact)](https://github.com/lkdevillfps1/github-readme-stats)
 
 
 <div> 
