@@ -8,9 +8,9 @@
 
 • 📚 Estudo: Python / html, css e javascript / Power Bi / SQL      
 
+![Lucasa GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdevillfps1&theme=dark&show_icons=true)
 <div>
   <a href="https://github.com/lkdevillfps1">
-  ![Lucasa GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdevillfps1&theme=dark&show_icons=true)
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkdevillfps1&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
